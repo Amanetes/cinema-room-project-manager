@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Cinema Room Manager (Kotlin)/*
+!/Cinema Room Manager (Kotlin)/task/
+/Cinema Room Manager (Kotlin)/task/*
+!/Cinema Room Manager (Kotlin)/task/src
